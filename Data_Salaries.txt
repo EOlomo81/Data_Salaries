@@ -1,0 +1,13 @@
+This project was created to help guide people looking for a career path in the field of Data Science.
+This project has a purpose of calculating the salaries of careers around Data Science, in order to help people willing to go into the field choose a career path.
+The parameters are based on salaries (in USD) from different companies, salaries (in USD) of different job positions & the average yearly cost of living based on the location of the worker.
+
+This project is to assist young data enthusiasts pick the best possible data career for them based on where they stay in the world.
+
+Please note:
+- A lot of data might be incorrect as they stem from different time periods
+- average_yearly_cost = the average cost of living per annum in the paticular country/location of the job entry. This data was gotten from ChatGPT and dates back to September 2021. So, it might be inaccurate in today's time.
+- average_salary_of job: Data for this was gotten from Glassdoor.com, ZipRecruiter.com, Indeed.com & Google search engine.
+
+
+This project was completed by Olomo Eriigbagbo on the 22nd of September 2023.
